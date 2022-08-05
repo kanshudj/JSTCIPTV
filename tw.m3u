@@ -21,6 +21,26 @@ http://61.219.170.95:18521/.m3u8
 http://220.134.196.147:9230/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 #EXTINF:-1 logo="" group-title="" ,八大戲劇
 http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+#EXTINF:-1 logo="" group-title="" ,民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 logo="" group-title="" ,台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 logo="" group-title="" ,TVBS新聞 HD
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+#EXTINF:-1 logo="" group-title="" ,TVBS新聞 HD
+rtmp://59.124.75.138/sat/tv551
+#EXTINF:-1 logo="" group-title="" ,中天新聞 HD
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+#EXTINF:-1 logo="" group-title="" ,壹新聞 HD
+http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,寰宇新聞台灣台
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 logo="" group-title="" ,中視新聞 HD
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+#EXTINF:-1 logo="" group-title="" ,華視 HD
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+#EXTINF:-1 logo="" group-title="" ,三立綜合
+http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
 #EXTINF:-1 logo="" group-title="" ,壹新聞
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 logo="" group-title="" ,年代新聞
@@ -40,8 +60,6 @@ http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&c
 #EXTINF:-1 logo="" group-title="" ,ELEVEN體育1台
 http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 logo="" group-title="" ,ELEVEN體育2台
-http://220.134.196.147:9227/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 logo="" group-title="" ,ELEVEN體育2台
 https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
 #EXTINF:-1 logo="" group-title="" ,momo綜合台
 http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
@@ -58,47 +76,4 @@ rtmp://59.124.75.150/sat/md021
 #EXTINF:-1 logo="" group-title="" ,HBO原創巨獻
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-#EXTINF:-1 logo="" group-title="" ,三立戲劇台
-http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
-#EXTINF:-1 logo="" group-title="" ,華語戲劇
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-#EXTINF:-1 logo="" group-title="" ,華語綜藝
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-#EXTINF:-1 logo="" group-title="" ,EF運通
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
-#EXTINF:-1 logo="" group-title="" ,海豚綜合台
-http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-#EXTINF:-1 logo="" group-title="" ,ELTV生活英語台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-#EXTINF:-1 logo="" group-title="" ,ELTA影劇
-http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-#EXTINF:-1 logo="" group-title="" ,EYE TV戲劇台
-https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa174100984b3a0a552f680547c0.m3u8
-#EXTINF:-1 logo="" group-title="" ,NBA
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281638
-#EXTINF:-1 logo="" group-title="" ,NBA
-https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,民視新聞 HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="" ,台視新聞 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="" ,TVBS新聞 HD
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-#EXTINF:-1 logo="" group-title="" ,TVBS新聞 HD
-rtmp://59.124.75.138/sat/tv551
-#EXTINF:-1 logo="" group-title="" ,中天新聞 HD
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-#EXTINF:-1 logo="" group-title="" ,三立iNEWS
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-#EXTINF:-1 logo="" group-title="" ,壹新聞 HD
-http://stream.nexttv.com.tw/n001/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,寰宇新聞台灣台
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-#EXTINF:-1 logo="" group-title="" ,中視新聞 HD
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-#EXTINF:-1 logo="" group-title="" ,華視 HD
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-#EXTINF:-1 logo="" group-title="" ,三立綜合
-http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
+
