@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#PLAYLIST: t.me/Karnei4
+#INFO:Парсер шаблона EDEM от Karnei4 мы в Телеграм: https://t.me/Karnei4
+#ICON:https://cdn.discordapp.com/attachments/821433902077968423/929425575699939358/EDEM-IPTV.png
+#BACKGROUND-IMAGE:https://Karnei4.github.io/s/png/fon-info_optimized.jpg
+#EXTINF:0 group-title="sports" tvg-id="6585" tvg-logo="http://epg.it999.ru/img2/6585.png" tvg-rec="0",SPORT TV 1 4K UHD PT
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/19161/index.m3u8
+#EXTINF:0 group-title="sports" tvg-id="2878" tvg-logo="http://epg.it999.ru/img/2878.png" tvg-rec="0",Sky Sport UHD DE
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/19044/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="3",Матч ТВ FHD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/2413/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="2050" tvg-logo="http://epg.it999.ru/img/2050.png" tvg-rec="3",Матч! Игра FHD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/2406/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="3",Матч! Премьер FHD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/2414/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/2407/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/2420/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/2408/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="2878" tvg-logo="http://epg.it999.ru/img/2878.png" tvg-rec="0",sky Sport 1 FHD DE
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/19027/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="6569" tvg-logo="http://epg.it999.ru/img2/6569.png" tvg-rec="0",FOX SPORTS HOUSTON HD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/19141/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="6571" tvg-logo="http://epg.it999.ru/img2/6571.png" tvg-rec="0",FOX SPORTS SOUTHWEST PLUS HD
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/19143/index.m3u8
